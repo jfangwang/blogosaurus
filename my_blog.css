@@ -1,9 +1,37 @@
-h1{
-  color: blue;
-}
+
 .quicksand{
   font-family: 'Quicksand', sans-serif;
 }
-.light-blue{
+.blue{
   color: #4286f4;
+}
+body{
+  background-image: url("file:////Users/demouser/blogosaurus/cab.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+.buttonStyle{
+  radius: 40;
+  background-color: white;
+  color: black;
+  height: 20%;
+}
+.facebookIcon{
+  width: 70px;
+}
+.instaIcon{
+  width: 65px;
+}
+.snapIcon{
+  width: 55px;
+}
+.githubIcon{
+  width: 80px;
+
+}
+.socialMeadiaContainer{
+}
+.icons:hover{
+  opacity: 0.5;
 }
