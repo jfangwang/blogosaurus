@@ -19,19 +19,25 @@ body{
 }
 .facebookIcon{
   width: 70px;
+  margin-bottom: .4%;
 }
 .instaIcon{
   width: 65px;
+  margin-bottom: .55%;
 }
 .snapIcon{
   width: 55px;
+  margin-bottom: .85%;
 }
 .githubIcon{
   width: 80px;
-
-}
-.socialMeadiaContainer{
 }
 .icons:hover{
   opacity: 0.5;
+}
+.center{
+  margin-left:50%;
+}
+.socialMeadiaContainer{
+  margin-bottom: 5%;
 }
