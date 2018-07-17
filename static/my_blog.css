@@ -6,7 +6,7 @@
   color: #4286f4;
 }
 body{
-  background-image: url("file:////Users/demouser/blogosaurus/cab.gif");
+  background-image: url("/static/cab.gif");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
